@@ -1,0 +1,117 @@
+{
+  "color" : "F5D56D",
+  "sounds" : [
+    {
+      "customSortIndex" : 0,
+      "name" : "Intro",
+      "image" : "🎷",
+      "color" : "007AFF"
+    },
+    {
+      "customSortIndex" : 1,
+      "name" : "Verse 1",
+      "image" : "1.circle.fill",
+      "color" : "007AFF"
+    },
+    {
+      "customSortIndex" : 2,
+      "name" : "Alien Attack",
+      "image" : "👽",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 3,
+      "name" : "🔁 Alien copy",
+      "image" : "👽",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 4,
+      "name" : "Final Alien",
+      "image" : "👽",
+      "color" : "34C759"
+    },
+    {
+      "customSortIndex" : 5,
+      "name" : "Trees",
+      "image" : "🌳",
+      "color" : "FFCC00"
+    },
+    {
+      "customSortIndex" : 6,
+      "name" : "🔁 Synth",
+      "image" : "🎹",
+      "color" : "D96EE3"
+    },
+    {
+      "customSortIndex" : 7,
+      "name" : "You Think I’m Joking, Do You? copy",
+      "image" : "🧐",
+      "color" : "D96EE3"
+    },
+    {
+      "customSortIndex" : 8,
+      "name" : "Verse 2",
+      "image" : "2.circle.fill",
+      "color" : "007AFF"
+    },
+    {
+      "customSortIndex" : 9,
+      "name" : "So Considerate",
+      "image" : "👺",
+      "color" : "FF3B30"
+    },
+    {
+      "customSortIndex" : 10,
+      "name" : "Trees 2",
+      "image" : "🌴",
+      "color" : "FFCC00"
+    },
+    {
+      "customSortIndex" : 11,
+      "name" : "My Time copy",
+      "image" : "🎤",
+      "color" : "FF9500"
+    },
+    {
+      "customSortIndex" : 12,
+      "name" : "✌️ My Time",
+      "image" : "🎤",
+      "color" : "FF9500"
+    },
+    {
+      "customSortIndex" : 13,
+      "name" : "Verse 3",
+      "image" : "3.circle.fill",
+      "color" : "007AFF"
+    },
+    {
+      "customSortIndex" : 14,
+      "name" : "Oh Lord 1",
+      "image" : "🙏",
+      "color" : "C2C2C2"
+    },
+    {
+      "customSortIndex" : 14,
+      "name" : "Oh Lord 2",
+      "image" : "🙏",
+      "color" : "C2C2C2"
+    },
+    {
+      "customSortIndex" : 16,
+      "name" : "Verse 4!!",
+      "image" : "4.circle.fill",
+      "color" : "007AFF"
+    },
+    {
+      "customSortIndex" : 17,
+      "name" : "Broom",
+      "image" : "🧹",
+      "color" : "A06B23"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
+  "name" : "Raps Like These",
+  "image" : "png",
+  "description" : "All props to @saturdavies"
+}
